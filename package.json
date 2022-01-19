@@ -1,0 +1,24 @@
+{
+  "name": "dss-heroku-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikkirs/dss-heroku-sample.git"
+  },
+  "author": "Nikhil Yadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikkirs/dss-heroku-sample/issues"
+  },
+  "homepage": "https://github.com/nikkirs/dss-heroku-sample#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2"
+  }
+}
